@@ -17,7 +17,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8 */;
 
 --
--- Base de datos: `indigo`
+-- Base de datos de savi: `indigo`
 --
 
 -- --------------------------------------------------------
